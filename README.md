@@ -1,2 +1,2 @@
 # NetWork
-The algorithms of Computer Network
+Some algorithms of Computer Network
